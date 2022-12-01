@@ -1,6 +1,7 @@
 Register your models with a subclass of :ref:`VersionAdmin`.
 
-.. code:: python
+.. code:: python 
+#     version::??
 
     from django.contrib import admin
     from reversion.admin import VersionAdmin
